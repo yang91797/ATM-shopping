@@ -1,0 +1,55 @@
+2018-06-05 18:36:15,508-user_id:root-DEBUG-添加账户:Draven
+2018-06-05 18:37:26,845-user_id:root-DEBUG-冻结账户:5
+2018-06-05 18:37:34,782-user_id:root-DEBUG-查看用户额度
+2018-06-05 18:37:34,782-user_id:root-DEBUG-查看用户额度
+2018-06-05 18:41:13,179-user_id:root-DEBUG-增加ID为:5的额度  增加金额：1000
+2018-06-05 18:41:20,477-user_id:root-DEBUG-查看用户额度
+2018-06-05 18:41:20,477-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:14:03,511-user_id:root-DEBUG-添加账户:qiujier
+2018-06-05 19:14:23,669-user_id:root-DEBUG-冻结账户:6
+2018-06-05 19:14:23,669-user_id:root-DEBUG-冻结账户:6
+2018-06-05 19:14:29,214-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:14:29,214-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:14:29,214-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:17:49,003-user_id:root-DEBUG-添加账户:qiodun
+2018-06-05 19:17:59,339-user_id:root-DEBUG-冻结账户:7
+2018-06-05 19:17:59,339-user_id:root-DEBUG-冻结账户:7
+2018-06-05 19:18:02,858-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:02,858-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:02,858-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:18,706-user_id:root-DEBUG-增加ID为:7的额度  增加金额：10000.0
+2018-06-05 19:18:18,706-user_id:root-DEBUG-增加ID为:7的额度  增加金额：10000.0
+2018-06-05 19:18:18,706-user_id:root-DEBUG-增加ID为:7的额度  增加金额：10000.0
+2018-06-05 19:18:18,706-user_id:root-DEBUG-增加ID为:7的额度  增加金额：10000.0
+2018-06-05 19:18:29,293-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:29,293-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:29,293-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:29,293-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:18:29,293-user_id:root-DEBUG-查看用户额度
+2018-06-05 19:39:41,746-user_id:egon-DEBUG-冻结账户:7
+2018-06-05 19:39:48,159-user_id:egon-DEBUG-查看用户额度
+2018-06-05 19:39:48,159-user_id:egon-DEBUG-查看用户额度
+2018-06-05 19:49:05,243-user_id:antony-DEBUG-查看用户额度
+2018-06-05 20:17:11,351-user_id:alex-DEBUG-查看root日志
+2018-06-05 20:17:41,412-user_id:alex-DEBUG-查看 2 日志
+2018-06-05 20:17:41,412-user_id:alex-DEBUG-查看 2 日志
+2018-06-05 20:34:10,604-user_id:alex-DEBUG-添加账户:wusir
+2018-06-05 20:34:20,665-user_id:alex-DEBUG-冻结账户:6
+2018-06-05 20:34:20,665-user_id:alex-DEBUG-冻结账户:6
+2018-06-05 20:37:45,391-user_id:alex-DEBUG-冻结账户:1
+2018-06-05 20:37:45,391-user_id:alex-DEBUG-冻结账户:1
+2018-06-05 20:37:45,391-user_id:alex-DEBUG-冻结账户:1
+2018-06-05 20:38:12,576-user_id:alex-DEBUG-查看用户额度
+2018-06-05 20:38:12,576-user_id:alex-DEBUG-查看用户额度
+2018-06-05 20:38:12,576-user_id:alex-DEBUG-查看用户额度
+2018-06-05 20:38:12,576-user_id:alex-DEBUG-查看用户额度
+2018-06-05 22:52:19,956-user_id:alex-DEBUG-查看root日志
+2018-06-05 22:54:27,824-user_id:alex-DEBUG-查看root日志
+2018-06-05 22:54:27,824-user_id:alex-DEBUG-查看root日志
+2018-06-06 00:28:39,641-user_id:egon-DEBUG-查看root日志
+2018-06-06 00:28:48,554-user_id:egon-DEBUG-查看root日志
+2018-06-06 00:31:58,870-user_id:alex-DEBUG-查看 1 日志
+2018-06-06 00:32:12,869-user_id:alex-DEBUG-冻结账户:5
+2018-06-06 00:32:25,939-user_id:alex-DEBUG-查看 6 日志
+2018-06-06 00:35:48,539-user_id:egon-DEBUG-查看 6 日志
+2018-06-06 00:35:52,310-user_id:egon-DEBUG-查看root日志
