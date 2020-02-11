@@ -14,21 +14,35 @@
 
 ### 相关功能目录
 启动程序：ATM/bin/atm.py
+
 管理员相关程序：ATM/bin/manage.py
+
 配置文件：ATM/conf/settings.py
+
 普通用户逻辑程序：ATM/core/main.py
+
 认证模块：ATM/core/auth.py
+
 日志模块：ATM/core/loggers.py
+
 与账户相关的模块：ATM/core/transaction.py
+
 账户数据：ATM/db/accounts
+
 购物历史:ATM/db/goods_history
+
 冻结账户：ATM/db/lock_user.txt
+
 用户信息：ATM/db/user_information.txt
+
 自定义模块：ATM/libs/common.py
+
 购物车程序：shopping_mall/shopping.py
 
 ### 初始数据
 用户名以及密码
+
 管理员：['alex', '1234'], ['egon', '1234'], ['antony', 'qwer']
+
 普通用户：['alex', '1234'], ['egon', 'qwer'], ['antony', '1234'],['esmail','1234'],['Draven','asdf']
 
